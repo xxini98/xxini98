@@ -30,7 +30,7 @@
 
 ### #About me 🖐🏻
 
-Portfolio → <a href=xxini.me> xxini.me </a>  
+Portfolio → <a href= xxini.me> xxini.me </a>  
 
 <div margin: 0 auto>
 
