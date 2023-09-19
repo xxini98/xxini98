@@ -48,15 +48,21 @@ Portfolio → <a href=xxini.me> xxini.me </a>
 </br>
 
 
-``` </Jinhee Park> ```
 
 
-<hr/>
+
 
 
 [![xxini98's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxini98&hide=issues&show_icons=true&theme=solarized-light)](https://github.com/xxini98)
 
+``` </Jinhee Park> ```
+
 </div>
+
+
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=footer
+)
+
 
 <!--
 **xxini98/xxini98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
