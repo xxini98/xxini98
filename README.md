@@ -2,10 +2,12 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=WELCOM👋🏻&fontAlign=75&rotate=15&fontAlignY=30&desc=Jinhee's%20Github&descAlign=70&descAlignY=44)
 
-### #About Me 🖐🏻
+` <Jinhee Park> `
 
 반갑습니다!☘  
-매일 매일 성장 중인 새싹 퍼블리셔 박진희입니다!
+매일 매일 성장 중인 새싹 퍼블리셔 박진희입니다!  
+성장하는 모습 기대해주세요! 😊
+
 
 ### #Technology Stack 📚
 
@@ -26,10 +28,31 @@
 
 </br>
 
+### #About me 🖐🏻
+
+Portfolio → <a href=xxini.me> xxini.me </a>  
+
+<div margin: 0 auto>
+
+
+<span style="background-color:##F75748"> 후기 → </span> <a href=https://xxining.tistory.com/> <img src ="https://img.shields.io/badge/tistory-F75748.svg?&style=for-the-badge&logo=tistory&logoColor=white"/> </a>
+ 
+</div>
+
+
 ### #Pin📌
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xxini98&repo=Saint_main&theme=calm)](https://github.com/xxini98/Saint_main)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xxini98&repo=KT4&theme=react)](https://github.com/xxini98/KT4)
+
+</br>
+
+
+``` </Jinhee Park> ```
+
+
+<hr/>
+
 
 [![xxini98's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxini98&hide=issues&show_icons=true&theme=solarized-light)](https://github.com/xxini98)
 
