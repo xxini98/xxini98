@@ -1,6 +1,6 @@
 <div align = center>
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=WELCOM👋🏻&fontAlign=75&rotate=15&fontAlignY=25&desc=Jinhee's%20Github&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=WELCOM👋🏻&fontAlign=75&rotate=15&fontAlignY=30&desc=Jinhee's%20Github&descAlign=70&descAlignY=44)
 
 ### #About Me 🖐🏻
 
