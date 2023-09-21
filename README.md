@@ -35,7 +35,7 @@ Portfolio → <a href=https://xxini.me> xxini.me </a>
 <div margin: 0 auto>
 
 
-<span style="background-color:##F75748"> 후기 → </span> <a href=https://xxining.tistory.com/> <img src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/> </a>
+<span style="background-color:##F75748"> 후기 → </span> <a href="https://velog.io/@xxini"/> <img src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/> </a>
  
 </div>
 
